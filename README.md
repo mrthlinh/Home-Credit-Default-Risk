@@ -1,4 +1,49 @@
-# Home-Credit-Default-Risk
+# Project Description
+## Description
+Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
-Hello
+Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 
+While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
+
+## Data
+ __Source__
+
+![](https://github.com/mrthlinh/Home-Credit-Default-Risk/blob/master/Database%20Diagram.png)
+
+__File Explanation__
+
+  1. application_{train|test}.csv
+
+   - This is the main table, broken into two files for Train (with TARGET) and Test (without TARGET).
+   - Static data for all applications. One row represents one loan in our data sample.
+
+
+
+__Feature List__
+
+__Feature Importance__
+
+## EDA
+ - Distribution
+ -
+ - What did you find from data?
+
+ - Correlation between variables?
+ -
+
+## Approach
+
+## Preliminary Result
+
+
+## Task List
+__Ongoing__
+- [ ] Simple EDA
+- [ ] Simple story
+- [ ] Prepare framework for Machine learning
+  - [ ] Dummy Classifier / Baseline
+  - [ ] More advanced ML model
+- [ ]
+
+__Complete__
