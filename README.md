@@ -27,11 +27,9 @@ __Feature Importance__
 
 
 ## EDA
- -
- - Distribution
+ - Distribution, (histogram, pie charts...)
  - Imbalance of data
  - Correlation between variables?
-
  - What did you find from data?
 
 __EDA example:__
@@ -45,10 +43,13 @@ __EDA example:__
 
 ## Task List
 __Ongoing__
-- [ ] Simple EDA & Simple story
+- [ ] Simple EDA & Simple story with "Previous Application" file
+- [ ] Simple EDA & Simple story with "Bureau" file
 - [ ] Clean Data and Imputation
-- [ ] Prepare framework for Machine learning
-  - [ ] Dummy Classifier / Baseline
-  - [ ] More advanced ML model
+- [ ] Prepare framework for Machine learning (sk-learn)
+  - [ ] Dummy Classifier / Baseline / Naive Bayes
+  - [ ] More advanced ML model: Logistic Regression, Random Forest, ...
+  - [ ] Small module for result evaluation
+- [ ] Hyperparameter based on 10-fold cross validation
 
 __Complete__
