@@ -24,13 +24,19 @@ __Feature List__
 
 __Feature Importance__
 
+
+
 ## EDA
- - Distribution
  -
+ - Distribution
+ - Imbalance of data
+ - Correlation between variables?
+
  - What did you find from data?
 
- - Correlation between variables?
- -
+__EDA example:__
+
+ - https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance
 
 ## Approach
 
@@ -39,11 +45,10 @@ __Feature Importance__
 
 ## Task List
 __Ongoing__
-- [ ] Simple EDA
-- [ ] Simple story
+- [ ] Simple EDA & Simple story
+- [ ] Clean Data and Imputation
 - [ ] Prepare framework for Machine learning
   - [ ] Dummy Classifier / Baseline
   - [ ] More advanced ML model
-- [ ]
 
 __Complete__
