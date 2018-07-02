@@ -2,12 +2,6 @@
 1. [Introduction](#Introduction)
 - [Feature Selection](#example2): How do you determine feature list and how do you collect data?
 - [Exploratory Data Analysis](#third-example): charts and hypothesis testing
-  1. [Correlation between variables]()
-  - [How head-to-head matchup history affect the current match?]()
-  - [How recent performances affect the current match?]()
-  - [Is ratio-odd usually right? How much are they likely to be correct?]()
-  - [Do strong teams usually win?]()
-  - [Data Distrubution in PCA]()
 - [Methodology](): Details about your procedure
   1. [Classifiers](): Definition and parameters meaning
     - [Dummy Classifiers]() Define a dummy classifier
@@ -25,9 +19,20 @@
 - [Results]()
 - [References]()
 
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+
+
 # Introduction
 This is a test
 
+
+## Example
+## Example2
+## Third Example
 # Project Description
 ## Description
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
