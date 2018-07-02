@@ -23,7 +23,7 @@
 1. [Example](#example)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
-
+4. [Fourth Example](#fourth-example)
 
 
 # Introduction
@@ -33,6 +33,10 @@ This is a test
 ## Example
 ## Example2
 ## Third Example
+
+
+# Fourth Example
+
 # Project Description
 ## Description
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
