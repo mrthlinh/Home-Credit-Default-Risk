@@ -1,3 +1,30 @@
+# Table of Contents
+1. [Introduction](#Introduction)
+- [Feature Selection](#example2): How do you determine feature list and how do you collect data?
+- [Exploratory Data Analysis](#third-example): charts and hypothesis testing
+  1. [Correlation between variables]()
+  - [How head-to-head matchup history affect the current match?]()
+  - [How recent performances affect the current match?]()
+  - [Is ratio-odd usually right? How much are they likely to be correct?]()
+  - [Do strong teams usually win?]()
+  - [Data Distrubution in PCA]()
+- [Methodology](): Details about your procedure
+  1. [Classifiers](): Definition and parameters meaning
+    - [Dummy Classifiers]() Define a dummy classifier
+    - [Logistic Regression]()
+    - [Support Vector Machine]()
+    - [Ensemble Trees]()
+    - [Neural Network]()
+  - [Evaluation Criteria](): Definition, strength and weakness
+    - [Accuracy]()
+    - [Recall, Precision, F1]()
+    - [Out of Bag Error]()
+    - [10-fold cross validation error]()
+  - [Hyper Parameter Tuning]()
+
+- [Results]()
+- [References]()
+
 # Project Description
 ## Description
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
