@@ -75,8 +75,6 @@ __Feature List__
 
 __Feature Importance__
 
-
-
 ## EDA
  - Distribution, (histogram, pie charts...)
  - Imbalance of data
@@ -94,12 +92,13 @@ __EDA example:__
 
 
 ## Task List
+
 __Ongoing__
-- [ ] Simple EDA & Simple story with "Previous Application" file
-- [ ] Simple EDA & Simple story with "Bureau" file
-- [ ] Clean Data and Imputation
+- [ ] __7/13__ Simple EDA & Simple story with "Previous Application" file
+- [ ] __7/13__ Simple EDA & Simple story with "Bureau" file
+- [ ] __7/13__ Clean Data and Imputation
 - [ ] Prepare framework for Machine learning (sk-learn)
-  - [ ] Dummy Classifier / Baseline / Naive Bayes
+  - [ ] __7/13__ Dummy Classifier / Baseline / Naive Bayes and Submit to Kaggle.
   - [ ] More advanced ML model: Logistic Regression, Random Forest, ...
   - [ ] Small module for result evaluation
 - [ ] Hyperparameter based on 10-fold cross validation
