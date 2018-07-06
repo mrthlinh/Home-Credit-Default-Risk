@@ -95,6 +95,7 @@ __EDA example:__
 
 __Ongoing__
 - [ ] __7/13__ Simple EDA & Simple story with "Previous Application" file
+  -*7/6 Note[TN]*: Using https://plot.ly/python/pie-charts/ for code references. Ran into some problem in executing <py.iplot(fig,filename='donut')>. Will update on this problem.
 - [ ] __7/13__ Simple EDA & Simple story with "Bureau" file
 - [ ] __7/13__ Clean Data and Imputation
 - [ ] Prepare framework for Machine learning (sk-learn)
