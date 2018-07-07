@@ -98,16 +98,9 @@ __EDA example:__
 # Task List
 
 __Ongoing__
-<<<<<<< HEAD
 - [ ] __7/13 (T)__ Simple EDA & Simple story with "Previous Application" file
 - [ ] __7/13 (T)__ Simple EDA & Simple story with "Bureau" file
 - [ ] __7/13 (L)__ Clean Data and Imputation
-=======
-- [ ] __7/13__ Simple EDA & Simple story with "Previous Application" file
-  -*7/6 Note[TN]*: Using https://plot.ly/python/pie-charts/ for code references. Ran into some problem in executing <py.iplot(fig,filename='donut')>. Will update on this problem.
-- [ ] __7/13__ Simple EDA & Simple story with "Bureau" file
-- [ ] __7/13__ Clean Data and Imputation
->>>>>>> 57c8e3db10ad7cdac8a1a1dedcec3f09d05270b4
 - [ ] Prepare framework for Machine learning (sk-learn)
   - [ ] __7/13 (L)__ Dummy Classifier / Baseline / Naive Bayes and Submit to Kaggle.
   - [ ] __7/13 (L)__ Module function for preprocessing "Helper_Function"
