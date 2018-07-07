@@ -41,6 +41,8 @@ fig={
              "values":Data_pie.values,
              "labels":Data_pie.index,
              "domain":{"x":[0,1]},
+             "name":"Product Combination",
+             "hoverinfo":"Label+percent+name",
              "hole":0.1,
              "type":"pie"
              }],
@@ -61,6 +63,6 @@ fig={
 }
 
 
-py.iplot(fig,filename='donut')
+py.iplot(fig, filename='donut')
 
 
