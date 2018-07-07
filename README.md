@@ -1,26 +1,29 @@
 # Table of Contents
-1. [Introduction](#Introduction)
-- [Feature Selection](#example2): How do you determine feature list and how do you collect data?
-- [Exploratory Data Analysis](#third-example): charts and hypothesis testing
-- [Methodology](): Details about your procedure
+1. [Introduction](#introduction)
+2. [Data](#data)
+3. [Exploratory Data Analysis](#EDA): charts and hypothesis testing
+4. [Methodology](): Details about your procedure
   1. [Classifiers](): Definition and parameters meaning
     - [Dummy Classifiers]() Define a dummy classifier
     - [Logistic Regression]()
     - [Support Vector Machine]()
     - [Ensemble Trees]()
+    - [Extreme Gradient Boosting]()
+    - [LGBM]()
     - [Neural Network]()
-  - [Evaluation Criteria](): Definition, strength and weakness
+  2. [Evaluation Criteria](): Definition, strength and weakness
     - [Accuracy]()
     - [Recall, Precision, F1]()
     - [Out of Bag Error]()
     - [10-fold cross validation error]()
   - [Hyper Parameter Tuning]()
 
-- [Results]()
-- [References]()
+5. [Results](#results)
+6. [References]()
+7. [Task List](#task-list)
 
 
-# Project Description
+# Introduction
 ## Description
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
@@ -28,7 +31,7 @@ Home Credit strives to broaden financial inclusion for the unbanked population b
 
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
-## Data
+# Data
  __Source__
 
 ![](https://github.com/mrthlinh/Home-Credit-Default-Risk/blob/master/Database%20Diagram.png)
@@ -71,11 +74,12 @@ __File Explanation__
    - There is a) one row for every payment that was made plus b) one row each for missed payment.
    - One row is equivalent to one payment of one installment OR one installment corresponding to one payment of one previous Home Credit credit related to loans in our sample.
 
+
 __Feature List__
 
 __Feature Importance__
 
-## EDA
+# EDA
  - Distribution, (histogram, pie charts...)
  - Imbalance of data
  - Correlation between variables?
@@ -86,19 +90,20 @@ __EDA example:__
 
  - https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance
 
-## Approach
+# Methodology
 
-## Preliminary Result
+# Result
 
 
-## Task List
+# Task List
 
 __Ongoing__
-- [ ] __7/13__ Simple EDA & Simple story with "Previous Application" file
-- [ ] __7/13__ Simple EDA & Simple story with "Bureau" file
-- [ ] __7/13__ Clean Data and Imputation
+- [ ] __7/13 (T)__ Simple EDA & Simple story with "Previous Application" file
+- [ ] __7/13 (T)__ Simple EDA & Simple story with "Bureau" file
+- [ ] __7/13 (L)__ Clean Data and Imputation
 - [ ] Prepare framework for Machine learning (sk-learn)
-  - [ ] __7/13__ Dummy Classifier / Baseline / Naive Bayes and Submit to Kaggle.
+  - [ ] __7/13 (L)__ Dummy Classifier / Baseline / Naive Bayes and Submit to Kaggle.
+  - [ ] __7/13 (L)__ Module function for preprocessing "Helper_Function"
   - [ ] More advanced ML model: Logistic Regression, Random Forest, ...
   - [ ] Small module for result evaluation
 - [ ] Hyperparameter based on 10-fold cross validation
