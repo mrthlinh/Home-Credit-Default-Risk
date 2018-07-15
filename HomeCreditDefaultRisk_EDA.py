@@ -14,7 +14,7 @@ import pandas as pd
 
 Bureau=pd.read_csv('Data/bureau.csv')
 Bureau_bal=pd.read_csv('Data/bureau_balance.csv')
-POS=pd.read_csv('Data/POS_CASH_balance.csv')
+POS_bal=pd.read_csv('Data/POS_CASH_balance.csv')
 Credit=pd.read_csv('Data/credit_card_balance.csv')
 Applicant_Hist=pd.read_csv('Data/previous_application.csv')
 Pmt=pd.read_csv('Data/installments_payments.csv')
